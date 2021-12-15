@@ -11,3 +11,4 @@ if (a > b)
 }
 else max = b;
 Console.WriteLine("Максимальное из двух, равно " +max);
+Console.WriteLine("Max"+max.ToString()); //Console.WriteLine("Max="+max);
